@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="maven_ex1" />
+        <module name="sq-ch6-ex3" />
         <module name="maven_ex2" />
+        <module name="sq-ch6-ex2" />
         <module name="maven_ex3" />
+        <module name="sq-ch6-ex1" />
         <module name="maven_ex4" />
         <module name="maven_ex5" />
         <module name="maven_ex6" />
