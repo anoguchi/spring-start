@@ -31,6 +31,7 @@
         <module name="sq-ch4-ex6" />
         <module name="sq-ch4-ex5" />
         <module name="sq-ch4-ex4" />
+        <module name="sq-ch7-ex1" />
         <module name="sq-ch3-ex9" />
         <module name="sq-ch3-ex6" />
         <module name="sq-ch3-ex5" />
@@ -42,5 +43,10 @@
         <module name="sq-ch3-ex3" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sq-ch7-ex1" options="-parameters" />
+    </option>
   </component>
 </project>
