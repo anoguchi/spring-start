@@ -18,6 +18,9 @@
         <module name="maven_ex5" />
         <module name="maven_ex6" />
         <module name="sq-ch6-ex6" />
+        <module name="sq-ch9-ex2" />
+        <module name="sq-ch9-ex1" />
+        <module name="sq-ch9-ex3" />
         <module name="sq-ch5-ex2" />
         <module name="sq-ch5-ex1" />
         <module name="sq-ch5-ex4" />
@@ -63,6 +66,9 @@
       <module name="sq-ch8-ex3" options="-parameters" />
       <module name="sq-ch8-ex4" options="-parameters" />
       <module name="sq-ch8-ex5" options="-parameters" />
+      <module name="sq-ch9-ex1" options="-parameters" />
+      <module name="sq-ch9-ex2" options="-parameters" />
+      <module name="sq-ch9-ex3" options="-parameters" />
     </option>
   </component>
 </project>
