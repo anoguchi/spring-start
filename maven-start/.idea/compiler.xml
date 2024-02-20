@@ -47,6 +47,7 @@
         <module name="sq-ch11-ex1" />
         <module name="sq-ch11-ex3" />
         <module name="sq-ch11-ex2" />
+        <module name="sq-ch12-ex1" />
         <module name="sq-ch5-ex2" />
         <module name="sq-ch5-ex1" />
         <module name="sq-ch5-ex4" />
@@ -63,10 +64,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="maven_ex3" target="21" />
-      <module name="maven_ex6" target="21" />
+      <module name="maven_ex5" target="21" />
       <module name="sq-ch10-ex1 (1)" target="17" />
-      <module name="sq-ch3-ex2" target="21" />
       <module name="sq-ch7-ex1 (1)" target="17" />
       <module name="sq-ch8-ex1.main" target="17" />
       <module name="sq-ch8-ex1.test" target="17" />
@@ -86,6 +85,7 @@
       <module name="sq-ch11-ex2" options="-parameters" />
       <module name="sq-ch11-ex3" options="-parameters" />
       <module name="sq-ch11-payments" options="-parameters" />
+      <module name="sq-ch12-ex1" options="-parameters" />
       <module name="sq-ch7-ex1" options="-parameters" />
       <module name="sq-ch7-ex1 (1)" options="-parameters" />
       <module name="sq-ch8-ex1" options="-parameters" />
