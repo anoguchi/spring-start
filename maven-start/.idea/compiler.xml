@@ -25,6 +25,7 @@
         <module name="sq-ch4-ex6" />
         <module name="sq-ch4-ex5" />
         <module name="sq-ch4-ex4" />
+        <module name="sq-ch14-ex1" />
         <module name="sq-ch3-ex9" />
         <module name="sq-ch3-ex6" />
         <module name="sq-ch3-ex5" />
@@ -95,6 +96,7 @@
       <module name="sq-ch12-ex3" options="-parameters" />
       <module name="sq-ch13-ex1" options="-parameters" />
       <module name="sq-ch13-ex2" options="-parameters" />
+      <module name="sq-ch14-ex1" options="-parameters" />
       <module name="sq-ch7-ex1" options="-parameters" />
       <module name="sq-ch7-ex1 (1)" options="-parameters" />
       <module name="sq-ch8-ex1" options="-parameters" />
